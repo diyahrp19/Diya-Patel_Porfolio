@@ -48,7 +48,7 @@ const About = () => {
                 Specialization
               </h3>
               <p className="text-sm text-muted-foreground">
-                Full-Stack Development
+                Full-Stack Development, Python Programming, Django
               </p>
             </CardContent>
           </Card>
